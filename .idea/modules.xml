@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aspect.iml" filepath="$PROJECT_DIR$/.idea/modules/Aspect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aspect_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Aspect_main.iml" group="Aspect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aspect_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Aspect_test.iml" group="Aspect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr_main.iml" group="Spittr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spittr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spittr_test.iml" group="Spittr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contacts.iml" filepath="$PROJECT_DIR$/.idea/modules/contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_21/contacts_cli/contacts_cli.iml" filepath="$PROJECT_DIR$/Chapter_21/contacts_cli/contacts_cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contacts_main.iml" filepath="$PROJECT_DIR$/.idea/modules/contacts_main.iml" group="contacts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contacts_test.iml" filepath="$PROJECT_DIR$/.idea/modules/contacts_test.iml" group="contacts" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_21/rest_hi/rest_hi.iml" filepath="$PROJECT_DIR$/Chapter_21/rest_hi/rest_hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-mixedconfig.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-mixedconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-mixedconfig_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-mixedconfig_main.iml" group="stereo-mixedconfig" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stereo-mixedconfig_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stereo-mixedconfig_test.iml" group="stereo-mixedconfig" />
+    </modules>
+  </component>
+</project>

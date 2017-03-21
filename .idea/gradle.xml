@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig" />
+        <option name="gradleHome" value="D:/tools/gradle/gradle-3.4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_04/Aspect" />
+        <option name="gradleHome" value="D:/tools/gradle/gradle-3.4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_04/Aspect" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_05/Spittr" />
+        <option name="gradleHome" value="D:/tools/gradle/gradle-3.4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_05/Spittr" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter_21/contacts" />
+        <option name="gradleHome" value="D:/tools/gradle/gradle-3.4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter_21/contacts" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

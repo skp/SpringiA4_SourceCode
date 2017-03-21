@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="contacts" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Aspect_main" target="1.8" />
+      <module name="Aspect_test" target="1.8" />
+      <module name="contacts" target="1.5" />
+      <module name="contacts_main" target="1.8" />
+      <module name="contacts_test" target="1.8" />
+      <module name="Spittr_main" target="1.8" />
+      <module name="Spittr_test" target="1.8" />
+      <module name="stereo-mixedconfig_main" target="1.8" />
+      <module name="stereo-mixedconfig_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
